@@ -1,0 +1,3 @@
+- op: replace
+  path: /spec/components/5/managed
+  value: false

@@ -1,0 +1,8 @@
+nameReference:
+  - kind: Secret
+    version: v1
+    fieldSpecs:
+      - path: spec/configBundleSecret
+        kind: QuayRegistry
+        group: quay.redhat.com
+        version: v1
